@@ -1,0 +1,3 @@
+
+bats help is online at
+https://github.com/bats-core/bats-core#usage
