@@ -1,13 +1,14 @@
-
 {
   "display_name": "Bash, bats",
-  "image_name": "cyberdojofoundation/bash_bats",
+  "image_name": "cyberdojofoundation/bash_bats:8e93e84",
   "visible_filenames": [
-     "test_hiker.sh",
-     "bats_help.txt",
-     "hiker.sh",
-     "cyber-dojo.sh"
+    "test_hiker.sh",
+    "bats_help.txt",
+    "hiker.sh",
+    "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".sh" ],
+  "filename_extension": [
+    ".sh"
+  ],
   "tab_size": 4
 }
