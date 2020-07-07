@@ -1,6 +1,6 @@
 {
   "display_name": "Bash, bats",
-  "image_name": "cyberdojofoundation/bash_bats:8e93e84",
+  "image_name": "cyberdojofoundation/bash_bats:53d0c9c",
   "visible_filenames": [
     "test_hiker.sh",
     "bats_help.txt",
