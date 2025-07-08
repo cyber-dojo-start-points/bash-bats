@@ -1,6 +1,7 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/bash-bats.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/bash-bats)
+[![Github Action (master)](https://github.com/cyber-dojo-start-points/bash-bats/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/bash-bats/actions)
 
-### display_name="Bash, bats"
-### image_name="[cyberdojofoundation/bash_bats](https://hub.docker.com/repository/docker/cyberdojofoundation/bash_bats)"
+### display_name="Bash 5.2.37, bats 1.12.0"
+### image_name="[ghcr.io/cyber-dojo-languages/bash_bats](ghcr.io/cyber-dojo-languages/bash_bats)
+
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
