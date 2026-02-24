@@ -1,12 +1,13 @@
 {
   "display_name": "Bash 5.3.3, bats 1.13.0",
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:b9de85d",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:cc4f391",
   "visible_filenames": [
     "test_hiker.sh",
     "bats_help.txt",
     "hiker.sh",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".sh"
   ],
