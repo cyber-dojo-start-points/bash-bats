@@ -10,14 +10,15 @@
   ],
   "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:b7b9924",
   "visible_filenames": [
-    "test_hiker.sh",
+    "test_hiker.bats",
     "bats_help.txt",
     "hiker.sh",
     "cyber-dojo.sh"
   ],
   "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
-    ".sh"
+    ".sh",
+    ".bats"
   ],
   "tab_size": 4
 }
