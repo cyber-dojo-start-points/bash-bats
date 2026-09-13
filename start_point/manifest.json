@@ -1,12 +1,12 @@
 {
-  "display_name": "Bash 5.3, bats 1.14.0",
+  "display_name": "Bash 5.3, bats 1.14",
   "language": [
     "Bash",
     "5.3"
   ],
   "test_framework": [
     "bats",
-    "1.14.0"
+    "1.14"
   ],
   "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:b7b9924",
   "visible_filenames": [
