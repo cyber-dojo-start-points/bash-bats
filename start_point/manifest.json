@@ -8,7 +8,7 @@
     "bats",
     "1.14.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:09e1b6c@sha256:ada8f3e8717a96913406e955e5146fdec7668bf8a3abdb693f9367d5e0c6cb81",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:09e1b6c@sha256:1e1fb48d73b480c93604ee641279049c8d33e3c29f97485e8c7bfecc405a872c",
   "visible_filenames": [
     "test_hiker.bats",
     "bats_help.txt",
