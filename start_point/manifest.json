@@ -1,14 +1,14 @@
 {
-  "display_name": "Bash 5.3, bats 1.14",
+  "display_name": "Bash 5.3.9, bats 1.14.0",
   "language": [
     "Bash",
-    "5.3"
+    "5.3.9"
   ],
   "test_framework": [
     "bats",
-    "1.14"
+    "1.14.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:b7b9924",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_bats:9a97dbb@sha256:9c94d81d7f85aa8667cf37b69912d2816d6ff8701065ecfe41252817891920d7",
   "visible_filenames": [
     "test_hiker.bats",
     "bats_help.txt",
